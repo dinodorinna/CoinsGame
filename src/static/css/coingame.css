@@ -33,7 +33,6 @@ body {
 .coinRule{
     font-size: 19pt;
     margin-top: 6rem;
-    margin-left: 4rem;
-    position: fixed;
-    bottom: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
